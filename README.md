@@ -5,7 +5,7 @@ The Coffee Sales Data Analysis project focuses on exploring and visualizing coff
 <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/680d0a30-4bdc-4cec-aa46-0a4a7e5b958f" />
 
 ### To view Dashboard
-<https://github.com/vaibhav-9673/Excel_project/blob/main/Excel_coffee_sales.png>dataset view</a>
+<https://github.com/vaibhav-9673/Excel_project/blob/main/Excel_coffee_sales.png>
 ### To Dataset
 <https://github.com/vaibhav-9673/Excel_project/blob/main/09_coffee%20shop%20sales.xlsx>
 
